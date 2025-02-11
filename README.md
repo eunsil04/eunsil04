@@ -6,8 +6,9 @@
 
 </div>
 
-### About Me 😁:
 <img src="https://github.com/user-attachments/assets/4460422e-cfb8-4fd9-99b4-3fc2c666ecc8" align="right" width="350">
+
+### About Me 😁:
 
 - 👩‍💻 I'm a AI Software Developer focused on AI/ML  
 - 🤝 I'm looking to collaborate and learn from others 😊
