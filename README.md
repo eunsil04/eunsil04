@@ -25,7 +25,7 @@
 ### Awards 🏆:
 
 - 2024 제5회 한국인공지능학술대회 논문 장려상 🥉
-- 2024 우수강의 참여수기 공모전 대상 🥇  
+- 2024 국립한밭대학교 우수강의 참여수기 공모전 대상 🥇  
 - 2025 한국통신학회 아이디어경진대회 대상 🥇 </br>
   ***Personalized Styling Solution Using Generative AI*** [[link](https://conf.kics.or.kr/ideaContest#evaluation)]
 
