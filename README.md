@@ -36,4 +36,4 @@
 | 제목 | 학회 | 자료 |
 |----------------|----------------|----------------|
 | *Unity ML-Agents와 PPO 알고리즘을 활용한 강화 학습 기반 자율주행 시뮬레이션* | 2025 한국통신학회 동계학술대회 |  [🔗]() |
-| *An Approach to Data Augmentation for Object Detection* | 2024 한국통신학회 한국 인공지능 학술대회 | [🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) &nbsp; &nbsp; [[github]()] |
+| *An Approach to Data Augmentation for Object Detection* | 2024 한국통신학회 한국 인공지능 학술대회 | [🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949311) &nbsp; [[github]()] |
