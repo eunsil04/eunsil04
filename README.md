@@ -8,7 +8,7 @@
 
 ### About Me 😁:
 
-- 👩‍💻 I'm a AI Software Developer focused on AI/ML  
+- 👩‍💻 I'm a Undergraduate Student studying AI Software
 - 🤝 I'm looking to collaborate and learn from others 😊
 
 <a></a>
