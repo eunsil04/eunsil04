@@ -17,7 +17,7 @@
 ### Activity 🌟:
 
 - (2024.01 ~ 2024.12) 제3기 국립한밭대학교 SW봉사단 활동 [[link](https://sw.hanbat.ac.kr/spreadValue/volunteer)]
-- (2024.06 ~ 2024.07) 🇲🇾 UCSI 해외인턴쉽 [[github](https://github.com/2024-01-UCSI-HB-project)]
+- (2024.06) 🇲🇾 UCSI 해외인턴쉽 [[github](https://github.com/2024-01-UCSI-HB-project)]
 
 <a></a>
 ---
